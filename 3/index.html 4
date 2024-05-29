@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Обувной магазин <u>Viktoria Moddis</u></h1>
+    <p>Лучшие модели текущего сезона по доступным ценам 🥿</p>
+    <h2>Ассортимент</h2>
+    <hr />
+    <ul>
+      <li style="display: inline-block">
+        <img
+          width="300"
+          src="https://robek.ru/public/PicturesNew//%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/riofiore/2019-03-5_%D1%86%D0%B1260972/0.webp"
+          alt=""
+        />
+        <h3>Туфли Monroe</h3>
+
+        <p>Цена: 2400 ₽</p>
+        <ul>
+          <li>Материал: Кожа</li>
+          <li>Производство: Италия</li>
+          <li>Гарантия: 1 год</li>
+        </ul>
+        <button>В корзину</button>
+      </li>
+      <li style="display: inline-block">
+        <img
+          width="300"
+          src="https://spbnevesta.ru/upload/accessories/154/26082022205459-svadebnye-tufli-pion-009.webp"
+          alt=""
+        />
+        <h3>Туфли Alexia</h3>
+
+        <p>Цена: 4199 ₽</p>
+        <ul>
+          <li>Материал: Кожа</li>
+          <li>Производство: РФ</li>
+          <li>Гарантия: 5 мес</li>
+        </ul>
+        <button>В корзину</button>
+      </li>
+      <li style="display: inline-block">
+        <img
+          width="300"
+          src="https://belwest.ru/images/hb2/h6d/9031546470430.jpg"
+          alt=""
+        />
+        <h3>Туфли Monaco</h3>
+
+        <p>Цена: 9090 ₽</p>
+        <ul>
+          <li>Материал: Силикон</li>
+          <li>Производство: Австрия</li>
+          <li>Гарантия: 2 года</li>
+        </ul>
+        <button>В корзину</button>
+      </li>
+      <li style="display: inline-block">
+        <img
+          width="300"
+          src="https://matreshka-shop.com/wp-content/uploads/2022/05/msg-552981939-18322-800x1067.jpg"
+          alt=""
+        />
+        <h3>Туфли Barbara</h3>
+
+        <p>Цена: 4290 ₽</p>
+        <ul>
+          <li>Материал: Кожа</li>
+          <li>Производство: Англия</li>
+          <li>Гарантия: 1 год</li>
+        </ul>
+        <button>В корзину</button>
+      </li>
+    </ul>
+    <hr />
+    <p>
+      Мы находимся по адресу
+      <i>г. Москва,ул.Старый Арбат, дом 46, вход с торца.</i>
+    </p>
+    <iframe
+      src="https://yandex.ru/map-widget/v1/?um=constructor%3Ac23f34466b8e587c91d8bf99aab2fc798f5de768f74c1fa78aba04bc221afca0&amp;source=constructor"
+      width="500"
+      height="400"
+      frameborder="0"
+    ></iframe>
+
+    <h4>Оставьте нам отзыв по ссылке ниже</h4>
+
+    <a href="#">Оставить отзыв😘</a>
+  </body>
+</html>
